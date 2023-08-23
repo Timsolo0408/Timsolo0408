@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I,m Tim 
 
 <!--
 **Timsolo0408/Timsolo0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
